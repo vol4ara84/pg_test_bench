@@ -1,0 +1,3 @@
+databases:
+  tile_generator:
+    url: postgres://tile_generator:tile_generator@localhost/tile_generator
